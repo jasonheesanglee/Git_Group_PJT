@@ -3,7 +3,7 @@ name: Bulls & Cows Game
 about: Creating Bulls & Cows Game
 title: ''
 labels: ''
-assignees: Rua-A, hyunwooparkkk, jasonheesanglee, poporago
+assignees: Rua-A, hyunwooparkkk, jasonheesanglee, vanics2, poporago, minjong3
 
 ---
 
