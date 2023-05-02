@@ -14,3 +14,7 @@ def secondN():
 def ThardN():
     num = random.randint(1,9)
     return num
+
+def FourthN():
+    num = random.randint(1,9)
+    return num
