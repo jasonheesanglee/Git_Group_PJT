@@ -4,11 +4,6 @@ def firstN():
     num = random.randint(1,9)
     return num
     
-<<<<<<< HEAD
-    
-
-=======
->>>>>>> 99aa4723b91c0f6c4ce7c9f96971996b499ba79a
 def secondN():
     num = random.randint(1,9)
     return num
