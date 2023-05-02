@@ -6,6 +6,6 @@ def firstN():
     
     
 
-def SecondN():
+def secondN():
     num = random.randint(1,9)
     return num
