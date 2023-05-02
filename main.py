@@ -9,3 +9,8 @@ def firstN():
 def secondN():
     num = random.randint(1,9)
     return num
+
+
+def ThardN():
+    num = random.randint(1,9)
+    return num
