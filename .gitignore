@@ -706,5 +706,12 @@ MigrationBackup/
 *.html
 .DS_Store
 .idea/
+*.csv
+*.xlsx
+*.pdf
+*.DS_Store
+
+
+
 
 # End of https://www.toptal.com/developers/gitignore/api/macos,python,jupyternotebooks,vim,vs,pycharm
