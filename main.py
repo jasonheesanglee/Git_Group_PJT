@@ -17,7 +17,6 @@ def FourthN():
     num = random.randint(1,9)
     return num
 
-
 fir = firstN()
 sec = secondN()
 thi = ThardN()
